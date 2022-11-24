@@ -22,12 +22,4 @@
 * `docker build -t ridogram .`
 * `docker run ridogram`
 
-<h2>Video Tutorial</h2>
-<p title="Video Tutorial">Ridogram can be easily deployed by watching this video.</p>
 
-[![Video Tutorial](images/howtodeployridogram.svg)](https://youtu.be/EO_XmAAjCng)
-
-<h2>Support</h2>
-<p title="Support">You can join us on any issue related to Ridogram Update and Support in Telegram.</p>
-<a href="https://t.me/ridogram" target="_blank"><img src="images/telegramchannelsupport.svg"/></a>
-<a href="https://t.me/ridogramchat" target="_blank"><img src="images/telegramgroupsupport.svg"/></a>
