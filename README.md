@@ -21,5 +21,5 @@
 
 * `docker build -t ridogram .`
 * `docker run ridogram`
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/l-vN9X?referralCode=T3NzxI)
 
